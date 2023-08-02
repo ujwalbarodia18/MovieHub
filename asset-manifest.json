@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Netflix-Clone/static/css/main.614a527c.css",
-    "main.js": "/Netflix-Clone/static/js/main.1ed0b85e.js",
-    "static/js/787.58b933ed.chunk.js": "/Netflix-Clone/static/js/787.58b933ed.chunk.js",
-    "index.html": "/Netflix-Clone/index.html",
-    "main.614a527c.css.map": "/Netflix-Clone/static/css/main.614a527c.css.map",
-    "main.1ed0b85e.js.map": "/Netflix-Clone/static/js/main.1ed0b85e.js.map",
-    "787.58b933ed.chunk.js.map": "/Netflix-Clone/static/js/787.58b933ed.chunk.js.map"
+    "main.css": "/MovieHub/static/css/main.614a527c.css",
+    "main.js": "/MovieHub/static/js/main.7cd48ff9.js",
+    "static/js/787.58b933ed.chunk.js": "/MovieHub/static/js/787.58b933ed.chunk.js",
+    "index.html": "/MovieHub/index.html",
+    "main.614a527c.css.map": "/MovieHub/static/css/main.614a527c.css.map",
+    "main.7cd48ff9.js.map": "/MovieHub/static/js/main.7cd48ff9.js.map",
+    "787.58b933ed.chunk.js.map": "/MovieHub/static/js/787.58b933ed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.614a527c.css",
-    "static/js/main.1ed0b85e.js"
+    "static/js/main.7cd48ff9.js"
   ]
 }
